@@ -1,0 +1,11 @@
+num1=input("Enter the number:")
+num2=input("Enter the 2nd number:")
+result=int(num1)+int(num2)
+print("The sum is:",result)
+
+result=int(num1)-int(num2)
+print("The sum is:",result)
+result=int(num1)*int(num2)
+print("The sum is:",result)
+result=int(num1)/int(num2)
+print("The sum is:",result)
